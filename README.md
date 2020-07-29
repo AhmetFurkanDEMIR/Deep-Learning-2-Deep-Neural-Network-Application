@@ -12,7 +12,5 @@
 
 ![Screenshot_2020-07-15_13-10-11](https://user-images.githubusercontent.com/54184905/87533013-a85bae80-c69c-11ea-82c5-327cd48b12b3.png)
 
-## Kaynak
 
-* Neural Networks and Deep Learning (Coursera) - https://www.coursera.org/learn/neural-networks-deep-learning
-
+* Kaynak : Neural Networks and Deep Learning (Coursera) - https://www.coursera.org/learn/neural-networks-deep-learning
